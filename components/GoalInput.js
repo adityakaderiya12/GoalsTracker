@@ -1,4 +1,4 @@
-//Input goals items
+//Input goals items  //GOal items 
 import {StyleSheet,View,TextInput,Button,} from 'react-native';
 function GoalInput(props){
     return(<View style={styles.inputContainer}>
