@@ -1,5 +1,5 @@
 
-
+//React native tutorial 
 import {StyleSheet,View,Text} from 'react-native';
 function GoalItem(props) {
     return (<View style={styles.goalItem}>
